@@ -9,3 +9,4 @@ _tmp
 /_tools
 /portainer/data
 /mysql/data
+/nginx/www
